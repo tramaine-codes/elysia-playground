@@ -1,15 +1,15 @@
 {
+  "dependencies": {
+    "elysia": "1.0.22"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.3"
+  },
+  "module": "src/index.js",
   "name": "elysia-playground",
-  "version": "1.0.50",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "bun run --watch src/index.ts"
   },
-  "dependencies": {
-    "elysia": "1.0.18"
-  },
-  "devDependencies": {
-    "bun-types": "1.1.8"
-  },
-  "module": "src/index.js"
+  "version": "1.0.50"
 }
