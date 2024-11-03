@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "elysia": "1.1.18"
+    "elysia": "1.1.24"
   },
   "devDependencies": {
-    "@types/bun": "1.1.10"
+    "@types/bun": "1.1.13"
   },
   "module": "src/index.js",
   "name": "elysia-playground",
